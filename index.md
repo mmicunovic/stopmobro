@@ -1,4 +1,4 @@
-# Stopmo Bro - Privacy Policy #
+
 ## Introduction ##
 Welcome to Stopmo Bro. Stopmo Bro allows you to create short stop motion and time-lapse video clips.
 Our privacy policy will help you understand what information we collect and how we use it. When we talk about "we", "our" or "us" in this policy, we are referring to MichBros company which provides services. When we talk about "Services" in this policy, we are referring to our mobile services, website, and any software provided on or in connection with Stopmo Bro.
